@@ -1,3 +1,5 @@
 textfile this is text1
 my-life/blob/master/test1.txt
 added third line
+textfile this is text1
+my-life/blob/master/test1.txt
